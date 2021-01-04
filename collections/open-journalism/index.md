@@ -14,6 +14,8 @@ items:
  - BloombergMedia/whatiscode
  - times/cardkit
  - mkiser/WTFJHT
+ - nrkno/Sofie-TV-automation
+
 display_name: Open journalism
 created_by: benbalter
 ---
